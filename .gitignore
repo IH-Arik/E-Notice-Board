@@ -4,9 +4,6 @@
 *.swo
 
 # Environment
-.env
-.env.local
-.env.production
 
 # Logs
 logs/
@@ -22,7 +19,6 @@ tmp/
 cache/
 
 # IDE
-.vscode/
 .idea/
 *.sublime-*
 
@@ -57,3 +53,8 @@ build/
 # Configuration files with sensitive data
 config/database.php
 config/config.local.php
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat

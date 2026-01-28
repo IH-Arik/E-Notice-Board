@@ -2,7 +2,7 @@
 
 A comprehensive web-based notice board management system built with PHP, MySQL, and modern web technologies. This system allows administrators to manage and display notices efficiently for educational institutions or organizations.
 
-## 🚀 Features
+##  Features
 
 ### Admin Panel
 - **Notice Management**: Create, edit, and delete notices
@@ -16,7 +16,7 @@ A comprehensive web-based notice board management system built with PHP, MySQL, 
 - **File Downloads**: Secure file access control
 - **Mobile Responsive**: Works on all devices
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 E-Notice-Board/
@@ -40,7 +40,7 @@ E-Notice-Board/
 └── README.md              # Project documentation
 ```
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Backend
 - **PHP 7.4+**: Server-side scripting
@@ -59,7 +59,7 @@ E-Notice-Board/
 - **File Upload Security**: Type and size validation
 - **Session Security**: Secure session management
 
-## 📋 Requirements
+##  Requirements
 
 ### Server Requirements
 - PHP 7.4 or higher
@@ -73,7 +73,7 @@ E-Notice-Board/
 - Fileinfo extension
 - Session support
 
-## 🚀 Installation
+##  Installation
 
 ### 1. Clone the Repository
 ```bash
@@ -158,7 +158,7 @@ define('DB_NAME', 'notice_board');
 - Allowed formats: PDF, JPG, PNG, MP4
 - Upload directory: `public/uploads/`
 
-## 🧪 Testing
+##  Testing
 
 ### Running Tests
 ```bash
@@ -173,7 +173,7 @@ php vendor/bin/phpunit tests/
 3. Test file upload and download
 4. Test responsive design on mobile devices
 
-## 🔒 Security Considerations
+##  Security Considerations
 
 ### Implemented Security Measures
 - **Input Validation**: All user inputs are sanitized
@@ -189,7 +189,7 @@ php vendor/bin/phpunit tests/
 - Keep PHP and server updated
 - Monitor upload directory for malicious files
 
-## 📊 Features in Detail
+##  Features in Detail
 
 ### Notice Management
 - Create notices with rich text content
@@ -212,7 +212,7 @@ php vendor/bin/phpunit tests/
 - Organized file storage
 - Download tracking
 
-## 🚀 Deployment
+##  Deployment
 
 ### Production Deployment
 1. Set up production database
@@ -230,7 +230,7 @@ RUN docker-php-ext-install mysqli
 EXPOSE 80
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -238,17 +238,17 @@ EXPOSE 80
 4. Test thoroughly
 5. Submit a pull request
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Support
+##  Support
 
 For support and queries:
 - Create an issue on GitHub
-- Email: [your-email@example.com]
+- Email: [ittesafarik@gmail.com]
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - [ ] Email notification system
 - [ ] Notice categorization system
@@ -259,7 +259,7 @@ For support and queries:
 - [ ] Cloud storage integration
 - [ ] Analytics dashboard
 
-## 📈 Performance Optimization
+##  Performance Optimization
 
 - Database indexing for faster queries
 - Image optimization for faster loading
@@ -269,4 +269,4 @@ For support and queries:
 
 ---
 
-⭐ If you find this project useful, please give it a star!
+ If you find this project useful, please give it a star!
